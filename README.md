@@ -1,2 +1,2 @@
 # WebTech1
-Demo frontend application (HTML/CSS/JS)
+Demo frontend application with HTML, CSS, JS, Bootstrap
